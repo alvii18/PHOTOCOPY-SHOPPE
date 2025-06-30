@@ -1,0 +1,1 @@
+<iframe src="viewer.html?file=uploaded_aadhaar.pdf" width="100%" height="600px"></iframe>
