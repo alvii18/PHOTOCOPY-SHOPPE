@@ -1,0 +1,7 @@
+<form action="/upload" method="POST" enctype="multipart/form-data">
+  <label>Select Aadhaar PDF:</label>
+  <input type="file" name="aadhaar_file" accept=".pdf" required>
+  <label>Enter Password:</label>
+  <input type="text" name="password" placeholder="Usually DOB in DDMMYYYY" required>
+  <button type="submit">Upload</button>
+</form>
